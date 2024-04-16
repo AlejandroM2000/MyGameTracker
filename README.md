@@ -1,0 +1,6 @@
+# MyGameTracker
+
+## 4/15/2024
+This is the day I will be starting this project, where I want to create a Jira type board mixed with aspects of MyAnimeList for keeping track of all the games you are currently playing.  Although you can see what games you are currently playing in your way of playin's library, having this in an all-in-one site would be much convenient, especially if you play on multiple devices where it gets difficult to keep track of. Since this is just for personal development of myself, I will be using vanilla JS/HTML/CSS to learn it better with the opportunity of changing to typescript, angular or reract in the future once I get a better grasp of what I am doing.  As for the backend stack, I will be using python Django + SQL database.  THe choice for the SQL database rather than the NoSQL is that data will always be the same structure so there is no real reason to use NOSQL DB.  I will be looking to use Docker to containerize my project to be able to run the project from any machine that I am using and to learn the basics of containerization.
+
+pla
